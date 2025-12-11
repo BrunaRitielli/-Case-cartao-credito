@@ -1,0 +1,45 @@
+
+# Arquivos e pastas de ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+logs/
+
+# Configurações de sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Distribuição / build
+build/
+dist/
+*.spec
+
+# Credenciais ou configs locais
+*.ini
+*.cfg
+*.local
+*.json
+secrets.json
+
